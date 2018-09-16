@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# add from mozlla
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
